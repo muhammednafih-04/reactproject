@@ -28,12 +28,7 @@ function App() {
         "Personal portfolio built using HTML, CSS, Bootstrap and JavaScript.",
       demo: "#",
     },
-    {
-      title: "To-Do App",
-      description:
-        "Task manager built using JavaScript and localStorage.",
-      demo: "#",
-    },
+   
     {
       title: "Gym Fitness App",
       description:
